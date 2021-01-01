@@ -1,3 +1,5 @@
+###### `This repository is for practising the use of themes provided by github for github pages.`
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Kiranendra/test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
